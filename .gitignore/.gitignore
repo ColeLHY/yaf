@@ -1,0 +1,7 @@
+#############
+## Custom
+#############
+\.idea/
+composer\.lock
+uploadfile/
+vendor/
