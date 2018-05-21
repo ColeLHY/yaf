@@ -45,7 +45,6 @@ scan\.pl
 nbproject/
 composer\.lock
 uploadfile/
-vendor/
 *.html
 .md
 .user.ini
